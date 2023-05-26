@@ -1,0 +1,3 @@
+/Users/bhavindivecha/Desktop/Texpidea/android/.cxx/RelWithDebInfo/10443g5g/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/bhavindivecha/Desktop/Texpidea/android/.cxx/RelWithDebInfo/10443g5g/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/bhavindivecha/Desktop/Texpidea/android/.cxx/RelWithDebInfo/10443g5g/arm64-v8a/CMakeFiles/native_edge_detection.dir

@@ -1,0 +1,22 @@
+# ninja log v5
+0	2342	1671799103	CMakeFiles/native_edge_detection.dir/Users/bhavindivecha/Desktop/Texpidea/ios/Classes/native_edge_detection.cpp.o	9066e022a44afdd4
+1	2344	1671799103	CMakeFiles/native_edge_detection.dir/Users/bhavindivecha/Desktop/Texpidea/ios/Classes/image_processor.cpp.o	edea00ea59a482a9
+1	2695	1671799103	CMakeFiles/native_edge_detection.dir/Users/bhavindivecha/Desktop/Texpidea/ios/Classes/edge_detector.cpp.o	408ba7b1a37c5b5
+2695	2801	1671799103	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/101k4la3/obj/arm64-v8a/libnative_edge_detection.so	295f45ab91d61004
+11	527	1671946019	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/101k4la3/obj/arm64-v8a/libnative_edge_detection.so	295f45ab91d61004
+11	458	1672918114	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/101k4la3/obj/arm64-v8a/libnative_edge_detection.so	295f45ab91d61004
+19	458	1673266726	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/101k4la3/obj/arm64-v8a/libnative_edge_detection.so	295f45ab91d61004
+15	480	1675455863	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/101k4la3/obj/arm64-v8a/libnative_edge_detection.so	295f45ab91d61004
+21	495	1676727530	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/101k4la3/obj/arm64-v8a/libnative_edge_detection.so	295f45ab91d61004
+20	287	1677517117	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/101k4la3/obj/arm64-v8a/libnative_edge_detection.so	295f45ab91d61004
+24	433	1678638553	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/101k4la3/obj/arm64-v8a/libnative_edge_detection.so	295f45ab91d61004
+6	798	1679486251	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/101k4la3/obj/arm64-v8a/libnative_edge_detection.so	295f45ab91d61004
+24	401	1680162166	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/101k4la3/obj/arm64-v8a/libnative_edge_detection.so	295f45ab91d61004
+24	799	1680165884	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/101k4la3/obj/arm64-v8a/libnative_edge_detection.so	295f45ab91d61004
+22	1031	1680228775	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/101k4la3/obj/arm64-v8a/libnative_edge_detection.so	295f45ab91d61004
+15	570	1681103233	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/101k4la3/obj/arm64-v8a/libnative_edge_detection.so	295f45ab91d61004
+22	577	1683044776	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/101k4la3/obj/arm64-v8a/libnative_edge_detection.so	295f45ab91d61004
+6	722	1683240681	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/101k4la3/obj/arm64-v8a/libnative_edge_detection.so	295f45ab91d61004
+11	750	1683388211	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/101k4la3/obj/arm64-v8a/libnative_edge_detection.so	295f45ab91d61004
+25	329	1683392937	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/101k4la3/obj/arm64-v8a/libnative_edge_detection.so	295f45ab91d61004
+10	781	1684778974	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/101k4la3/obj/arm64-v8a/libnative_edge_detection.so	295f45ab91d61004

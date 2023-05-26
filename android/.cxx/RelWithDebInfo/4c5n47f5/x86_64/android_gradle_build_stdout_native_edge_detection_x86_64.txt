@@ -1,0 +1,5 @@
+ninja: Entering directory `/Users/bhavindivecha/Desktop/Texpidea/android/.cxx/RelWithDebInfo/4c5n47f5/x86_64'
+[1/4] Building CXX object CMakeFiles/native_edge_detection.dir/Users/bhavindivecha/Desktop/Texpidea/ios/Classes/native_edge_detection.cpp.o
+[2/4] Building CXX object CMakeFiles/native_edge_detection.dir/Users/bhavindivecha/Desktop/Texpidea/ios/Classes/image_processor.cpp.o
+[3/4] Building CXX object CMakeFiles/native_edge_detection.dir/Users/bhavindivecha/Desktop/Texpidea/ios/Classes/edge_detector.cpp.o
+[4/4] Linking CXX shared library /Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/4c5n47f5/obj/x86_64/libnative_edge_detection.so

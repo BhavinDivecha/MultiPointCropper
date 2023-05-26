@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/bhavindivecha/Desktop/Texpidea/android/.cxx/RelWithDebInfo/6l3g2435/x86_64'
+ninja: no work to do.

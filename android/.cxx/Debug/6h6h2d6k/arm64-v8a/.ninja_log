@@ -1,0 +1,10 @@
+# ninja log v5
+1	2291	1671796820	CMakeFiles/native_edge_detection.dir/Users/bhavindivecha/Desktop/Texpidea/ios/Classes/native_edge_detection.cpp.o	e7fae2b9a8d8799
+2	2302	1671796820	CMakeFiles/native_edge_detection.dir/Users/bhavindivecha/Desktop/Texpidea/ios/Classes/image_processor.cpp.o	980fdd52aa20388b
+2	2440	1671796820	CMakeFiles/native_edge_detection.dir/Users/bhavindivecha/Desktop/Texpidea/ios/Classes/edge_detector.cpp.o	c96b848641f4b47
+2441	2577	1671796821	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/Debug/6h6h2d6k/obj/arm64-v8a/libnative_edge_detection.so	2a8685d8fda58dec
+19	715	1672228844	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/Debug/6h6h2d6k/obj/arm64-v8a/libnative_edge_detection.so	2a8685d8fda58dec
+15	941	1673335869	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/Debug/6h6h2d6k/obj/arm64-v8a/libnative_edge_detection.so	2a8685d8fda58dec
+28	1518	1678602194	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/Debug/6h6h2d6k/obj/arm64-v8a/libnative_edge_detection.so	2a8685d8fda58dec
+36	1340	1680164637	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/Debug/6h6h2d6k/obj/arm64-v8a/libnative_edge_detection.so	2a8685d8fda58dec
+39	1755	1680165772	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/Debug/6h6h2d6k/obj/arm64-v8a/libnative_edge_detection.so	2a8685d8fda58dec

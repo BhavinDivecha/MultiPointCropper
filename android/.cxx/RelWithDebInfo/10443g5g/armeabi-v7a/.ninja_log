@@ -1,0 +1,10 @@
+# ninja log v5
+0	2649	1675109074	CMakeFiles/native_edge_detection.dir/Users/bhavindivecha/Desktop/Texpidea/ios/Classes/native_edge_detection.cpp.o	e492d0ca37ed4644
+2	2676	1675109074	CMakeFiles/native_edge_detection.dir/Users/bhavindivecha/Desktop/Texpidea/ios/Classes/image_processor.cpp.o	ab89d3bcefd38b50
+1	3248	1675109074	CMakeFiles/native_edge_detection.dir/Users/bhavindivecha/Desktop/Texpidea/ios/Classes/edge_detector.cpp.o	8810ffacca14eed4
+3248	3368	1675109074	/Users/bhavindivecha/Documents/TexpideaLite/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/10443g5g/obj/armeabi-v7a/libnative_edge_detection.so	edc1d5b8ebb477e9
+6	489	1675421433	/Users/bhavindivecha/Documents/TexpideaLite/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/10443g5g/obj/armeabi-v7a/libnative_edge_detection.so	edc1d5b8ebb477e9
+16	553	1675996983	/Users/bhavindivecha/Documents/TexpideaLite/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/10443g5g/obj/armeabi-v7a/libnative_edge_detection.so	edc1d5b8ebb477e9
+5	874	1676132110	/Users/bhavindivecha/Documents/TexpideaLite/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/10443g5g/obj/armeabi-v7a/libnative_edge_detection.so	edc1d5b8ebb477e9
+3	557	1676384312	/Users/bhavindivecha/Documents/TexpideaLite/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/10443g5g/obj/armeabi-v7a/libnative_edge_detection.so	edc1d5b8ebb477e9
+3	314	1677263676	/Users/bhavindivecha/Documents/TexpideaLite/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/10443g5g/obj/armeabi-v7a/libnative_edge_detection.so	edc1d5b8ebb477e9

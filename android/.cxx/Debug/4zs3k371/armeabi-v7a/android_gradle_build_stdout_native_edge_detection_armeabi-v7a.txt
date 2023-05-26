@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/bhavindivecha/Desktop/Texpidea/android/.cxx/Debug/4zs3k371/armeabi-v7a'
+ninja: no work to do.

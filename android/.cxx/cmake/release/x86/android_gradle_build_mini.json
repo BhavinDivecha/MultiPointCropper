@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "/Users/bhavindivecha/Desktop/Texpidea/android/CMakeLists.txt",
+    "/Applications/Unity/Hub/Editor/2022.1.9f1/PlaybackEngines/AndroidPlayer/NDK/build/cmake/android.toolchain.cmake",
+    "/Applications/Unity/Hub/Editor/2022.1.9f1/PlaybackEngines/AndroidPlayer/NDK/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/bhavindivecha/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bhavindivecha/Desktop/Texpidea/android/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/bhavindivecha/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/bhavindivecha/Desktop/Texpidea/android/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native_edge_detection-Release-x86": {
+      "artifactName": "native_edge_detection",
+      "buildCommand": "/Users/bhavindivecha/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bhavindivecha/Desktop/Texpidea/android/.cxx/cmake/release/x86\" native_edge_detection",
+      "abi": "x86",
+      "output": "/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cmake/release/obj/x86/libnative_edge_detection.so",
+      "runtimeFiles": [
+        "/Users/bhavindivecha/Desktop/Texpidea/android/src/main/jniLibs/x86/libopencv_java4.so"
+      ]
+    }
+  }
+}

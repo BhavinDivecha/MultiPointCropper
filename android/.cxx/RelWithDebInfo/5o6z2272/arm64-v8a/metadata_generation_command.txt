@@ -1,0 +1,25 @@
+                    Executable : /Users/bhavindivecha/Library/Android/sdk/cmake/3.18.1/bin/cmake
+arguments : 
+-H/Users/bhavindivecha/Desktop/Texpidea/android
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=22
+-DANDROID_PLATFORM=android-22
+-DANDROID_ABI=arm64-v8a
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DANDROID_NDK=/Applications/Unity/Hub/Editor/2022.2.0f1/PlaybackEngines/AndroidPlayer/NDK
+-DCMAKE_ANDROID_NDK=/Applications/Unity/Hub/Editor/2022.2.0f1/PlaybackEngines/AndroidPlayer/NDK
+-DCMAKE_TOOLCHAIN_FILE=/Applications/Unity/Hub/Editor/2022.2.0f1/PlaybackEngines/AndroidPlayer/NDK/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/bhavindivecha/Library/Android/sdk/cmake/3.18.1/bin/ninja
+-DCMAKE_CXX_FLAGS=-frtti -fexceptions -std=c++11
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/5o6z2272/obj/arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/5o6z2272/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=RelWithDebInfo
+-B/Users/bhavindivecha/Desktop/Texpidea/android/.cxx/RelWithDebInfo/5o6z2272/arm64-v8a
+-GNinja
+-DANDROID_STL=c++_shared
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

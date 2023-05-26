@@ -1,0 +1,5 @@
+# ninja log v5
+0	1248	1670711285	CMakeFiles/native_edge_detection.dir/Users/bhavindivecha/Desktop/Texpidea/ios/Classes/native_edge_detection.cpp.o	a8c5029ed676fcf2
+1	1270	1670711285	CMakeFiles/native_edge_detection.dir/Users/bhavindivecha/Desktop/Texpidea/ios/Classes/image_processor.cpp.o	44ad2b0269f5aba
+0	1489	1670711285	CMakeFiles/native_edge_detection.dir/Users/bhavindivecha/Desktop/Texpidea/ios/Classes/edge_detector.cpp.o	3af79f24ea875565
+1489	1566	1670711285	/Users/bhavindivecha/Desktop/Texpidea/example/build/simple_edge_detection/intermediates/cxx/RelWithDebInfo/5o6z2272/obj/arm64-v8a/libnative_edge_detection.so	1f457752cebac5eb

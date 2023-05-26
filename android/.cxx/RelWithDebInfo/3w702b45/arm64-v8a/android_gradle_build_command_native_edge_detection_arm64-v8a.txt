@@ -1,0 +1,7 @@
+Executable : /Users/bhavindivecha/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/bhavindivecha/Desktop/Texpidea/android/.cxx/RelWithDebInfo/3w702b45/arm64-v8a
+native_edge_detection
+jvmArgs : 
+
